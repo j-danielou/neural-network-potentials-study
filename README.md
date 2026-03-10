@@ -42,6 +42,5 @@ The code is organized chronologically to follow the scientific reasoning:
 ├── dashboards/                  
 │   ├── dashboard_himmelblau.py  # Interactive visualization for Phase 1
 │   └── dashboard_molecule.py    # Interactive visualization for Phase 2
-│
-├── requirements.txt             
+│            
 └── README.md
