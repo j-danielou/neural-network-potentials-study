@@ -1,4 +1,4 @@
-# 🧪 TER Project: Learning Interatomic Potentials and their Gradients
+# TER Project: Learning Interatomic Potentials and their Gradients
 
 Welcome to the repository of my TER (*Travail d'Étude et de Recherche* / Research Study Project). This project explores the use of Deep Learning to simultaneously predict the energy of a system and its associated forces.
 
