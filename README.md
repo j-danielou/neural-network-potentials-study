@@ -1,5 +1,8 @@
 # TER Project: Learning Interatomic Potentials and their Gradients
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 Welcome to the repository of my TER (*Travail d'Étude et de Recherche* / Research Study Project). This project explores the use of Deep Learning to simultaneously predict the energy of a system and its associated forces.
 
 In molecular dynamics, force is defined as the negative gradient of the energy with respect to atomic coordinates:
