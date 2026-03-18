@@ -45,5 +45,10 @@ The code is organized chronologically to follow the scientific reasoning:
 ├── dashboards/                  
 │   ├── dashboard_himmelblau.py  # Interactive visualization for Phase 1
 │   └── dashboard_molecule.py    # Interactive visualization for Phase 2
-│            
+│          
+├── csv/
+│   ├── metrics_md17_7reps_aspirin.csv
+│   ├── metrics_md17_7reps_benzene.csv
+│   └── metrics_md17_7reps_paracetamol.csv
+│                 
 └── README.md
